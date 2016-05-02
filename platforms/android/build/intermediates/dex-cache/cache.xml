@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Banji\Desktop\RestaurantGuide\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa5a2efbb590050c2f2041c52e3b61a203c0ee82">
+        <dex dex="C:\Users\Banji\Desktop\RestaurantGuide\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_d9e8370721a1acf5fdacf742a261a1a3743fad16.jar" />
+    </item>
+
+</items>
